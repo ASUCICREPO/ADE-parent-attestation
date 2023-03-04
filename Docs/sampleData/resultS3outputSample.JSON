@@ -1,0 +1,22 @@
+[
+    {
+        "location": "United states",
+        "channelType": "SMS",
+        "messageId": "rja875hl4mqskbmkn7mkai7j5s3jcj7d49jvq6g0",
+        "reply": "XXXX-XXXX-XXXX",
+        "userId": "user-id-3948",
+        "address": "+XXXXXXXXXX",
+        "DateCreated": "2023-02-22",
+        "id": "user-id-3948"
+    },
+    {
+        "location": "United states",
+        "channelType": "SMS",
+        "messageId": "rja875hl4mqskbmkn7mkai7j5s3jcj7d49jvq6g0",
+        "reply": "XXXX-XXXX-XXXX",
+        "userId": "user-id-3947",
+        "address": "+XXXXXXXXXX",
+        "DateCreated": "2023-02-22",
+        "id": "user-id-3947"
+    }
+]

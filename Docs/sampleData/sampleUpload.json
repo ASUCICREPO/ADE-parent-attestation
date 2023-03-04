@@ -1,0 +1,39 @@
+[
+    {
+        "ChannelType": "SMS",
+        "Address": "+XXXXXXXXXX",
+        "Message": "test 1.0",
+        "Location": {
+            "Country": "United states"
+        },
+        "Demographic": {
+            "Platform": "IOS-123456789",
+            "Make": "iphone-12"
+        },
+        "User": {
+            "UserId": "user-id-3947",
+            "UserAttributes": [
+                ""
+            ]
+        }
+    },
+    {
+        "ChannelType": "SMS",
+        "Address": "+XXXXXXXXXX",
+        "Message": "Another test 2.0",
+        "Location": {
+            "Country": "United states"
+        },
+        "Demographic": {
+            "Platform": "IOS-123456789",
+            "Make": "iphone-12"
+        },
+        "User": {
+            "UserId": "user-id-1257",
+            "UserAttributes": [
+                ""
+            ]
+        }
+    }
+    
+]
