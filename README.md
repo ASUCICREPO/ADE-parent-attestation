@@ -71,15 +71,15 @@ The project is intended to be used by someone who has access to AWS, and can int
 # Credits:-
 
 Developer: 
-    Loveneet Singh
+    [Loveneet Singh](https://www.linkedin.com/in/loveneet-singh-6bb2851ba/)
 
 Sr. Program Manager, AWS: 
-    Jubleen Vilku
+    [Jubleen Vilku](https://www.linkedin.com/in/jubleen-vilku/)
 
 Architect:
-    Arun Arunachalam
+    [Arun Arunachalam](https://www.linkedin.com/in/arunarunachalam/)
 
 General Manager, ASU: 
-    Ryan Hendrix
+    [Ryan Hendrix](https://www.linkedin.com/in/ryanahendrix/)
 
-This project is designed and developed with guidance and support from the ASU Cloud Innovation Center and the City of Phoenix, Arizona teams.
+This project is designed and developed with guidance and support from the [ASU Cloud Innovation Center](https://smartchallenges.asu.edu) and the City of Phoenix, Arizona teams.
